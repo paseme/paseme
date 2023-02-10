@@ -2,14 +2,25 @@
   <img src="https://i.ibb.co/xJZg53h/Logo-Text-Transparent-Final.png" width="360">
 </p>
 
-## 💻 Apresentação
+## ☄️ Apresentação
 
-Bem-vindo ao repositório do Paseme, uma aplicação de gerenciamento de filas desenvolvida para auxiliar no atendimento de estabelecimentos que necessitam de uma forma mais eficiente e organizada de chamar os próximos clientes.
+Seja bem-vindo ao meu perfil no GitHub! Aqui, você pode encontrar os principais projetos e também contribuições para a comunidade de código aberto.
 
-Com o Paseme, é possível gerar senhas para novos clientes, exibir a senha atualmente sendo atendida, exibir o número da próxima senha a ser atendida e permitir o adiamento de senhas. Além disso, o Paseme foi projetado para ser fácil de usar, com uma interface intuitiva e inteiramente em português.
+## 🍀 Sobre nós
 
-## 🤝 Contribuição
+Somos uma equipe de programadores apaixonado por tecnologia, sempre buscando aprender e aprimorar o mundo ao redor com nossoas habilidades. Temos experiências em diversas linguagens de programação, buscamos trabalhar em projetos desafiantes e inovadores.
 
-Caso você tenha alguma dúvida ou sugestão a respeito do Paseme, por favor não hesite em abrir uma issue ou entrar em contato conosco através da seção de "Issues" do Github. Estamos sempre buscando melhorar o Paseme e sermos ainda mais úteis para nossos usuários.
+## 🧪 Projetos
 
-Obrigado por visitar este perfil ❤️ e esperamos que o Paseme possa ser útil para você!
+Aqui estão alguns dos projetos mais interessantes e recentes:
+
+- [Servidor](https://github.com/paseme/paseme-server)
+- [Aplicação Mobile](https://github.com/paseme/paseme-app)
+- [Aplicação Web](https://github.com/paseme/paseme-web)
+- [Página](https://github.com/paseme/paseme-page)
+
+## 📮 Contato
+
+Se quiser entrar em contato conosco ou saber mais sobre a aplicação, não hesite ao nos enviar um email. Estamos sempre dispostos a conversar e ajudar de alguma forma.
+
+💙 Obrigado por visitar o perfil! 💚
