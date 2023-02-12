@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/xJZg53h/Logo-Text-Transparent-Final.png" width="360">
 </p>
 
-## ☄️ Apresentação
+## 🌎 Apresentação
 
 Seja bem-vindo ao meu perfil no GitHub! Aqui, você pode encontrar os principais projetos e também contribuições para a comunidade de código aberto.
 
@@ -19,7 +19,7 @@ Aqui estão alguns dos projetos mais interessantes e recentes:
 - [Aplicação Web](https://github.com/paseme/paseme-web)
 - [Página](https://github.com/paseme/paseme-page)
 
-## 📮 Contato
+## 💎 Contato
 
 Se quiser entrar em contato conosco ou saber mais sobre a aplicação, não hesite ao nos enviar um email. Estamos sempre dispostos a conversar e ajudar de alguma forma.
 
