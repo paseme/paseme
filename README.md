@@ -6,7 +6,7 @@
 
 Hello there! Welcome in my GitHub Profile! Here you can find the main projects and contributions for the open sorce community. 
 
-## 🍀 About use
+## 🍀 About us
 
 We are team of programmers loved by technology, always looking for learning and improvements the world around with our habilities. We have experiencies in several programming languages, we seek to work on challenging and innovative projects! 
 
@@ -19,7 +19,7 @@ Below, has somes projects more interessent and recents:
 - [App Web](https://github.com/paseme/paseme-web)
 - [Page](https://github.com/paseme/paseme-page)
 
-## 🖍 Team
+## 🦗 Team
 
 Meet our team of programmers who make the magic happen:
 
