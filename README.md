@@ -2,25 +2,25 @@
   <img src="https://i.ibb.co/xJZg53h/Logo-Text-Transparent-Final.png" width="360">
 </p>
 
-## 🌎 Apresentação
+## 🌎 Apresentation
 
-Seja bem-vindo ao meu perfil no GitHub! Aqui, você pode encontrar os principais projetos e também contribuições para a comunidade de código aberto.
+Hello there! Welcome in my GitHub Profile! Here you can find the main projects and contributions for the open sorce community. 
 
-## 🍀 Sobre nós
+## 🍀 About use
 
-Somos uma equipe de programadores apaixonado por tecnologia, sempre buscando aprender e aprimorar o mundo ao redor com nossoas habilidades. Temos experiências em diversas linguagens de programação, buscamos trabalhar em projetos desafiantes e inovadores.
+We are team of programmers loved by technology, always looking for learning and improvements the world around with our habilities. We have experiencies in several programming languages, we seek to work on challenging and innovative projects! 
 
-## 🧪 Projetos
+## 🧪 Projects
 
-Aqui estão alguns dos projetos mais interessantes e recentes:
+Below, has somes projects more interessent and recents:
 
-- [Servidor](https://github.com/paseme/paseme-server)
-- [Aplicação Mobile](https://github.com/paseme/paseme-app)
-- [Aplicação Web](https://github.com/paseme/paseme-web)
-- [Página](https://github.com/paseme/paseme-page)
+- [Server](https://github.com/paseme/paseme-server)
+- [App Mobile](https://github.com/paseme/paseme-app)
+- [App Web](https://github.com/paseme/paseme-web)
+- [Page](https://github.com/paseme/paseme-page)
 
-## 💎 Contato
+## 💎 Contact
 
-Se quiser entrar em contato conosco ou saber mais sobre a aplicação, não hesite ao nos enviar um email. Estamos sempre dispostos a conversar e ajudar de alguma forma.
+If you want to enter in contact with us or know more about the applications, do not hesit to send us an email. We are available to talk and help the some way!
 
-💙 Obrigado por visitar o perfil! 💚
+💙 Thank you for visit the profile! 💚
