@@ -44,12 +44,12 @@ Meet our team of programmers who make the magic happen:
       <td> <img src="https://avatars.githubusercontent.com/u/83887299?v=4" width="64"/> </td>
     </tr> 
     <tr>
-      <td> Dev </td>
+      <td> Front Dev </td>
       <td> Ops </td>
       <td> Ops </td>
       <td> Dev/Ops </td>
-      <td> Dev </td>
-      <td> Ops </td>
+      <td> Mobile Dev </td>
+      <td> Back Ops </td>
     </tr>
   </tbody>
 </table>
