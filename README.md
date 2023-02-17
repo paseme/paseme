@@ -36,20 +36,20 @@ Meet our development team who make the magic happen:
   </thead>
   <tbody>
     <tr>
-      <td> <img src="https://avatars.githubusercontent.com/u/78767589?v=4" width="64"/> </td>
-      <td> <img src="https://i.ibb.co/C0V01GY/41e6b906-f92b-4878-ac0a-bee6e6acb0f2.jpg" width="64"/> </td>
-      <td> <img src="https://i.ibb.co/zhpJgQQ/308151887-499154234992682-4352991559090501283-n.jpg" width="64"/> </td>
-      <td> <img src="https://avatars.githubusercontent.com/u/75918986?v=4" width="64"/> </td>
-      <td> <img src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/unknown-512.png" width="64"/> </td>
-      <td> <img src="https://avatars.githubusercontent.com/u/83887299?v=4" width="64"/> </td>
+      <td> <img src="https://i.ibb.co/HKXN1M0/amanda.png" width="96"/> </td>
+      <td> <img src="https://i.ibb.co/7r2RYDX/felipe.png" width="96"/> </td>
+      <td> <img src="https://i.ibb.co/z8HFTxL/machado.png" width="96"/> </td>
+      <td> <img src="https://i.ibb.co/yBbyqHY/lucas.png" width="96"/> </td>
+      <td> <img src="https://i.ibb.co/wMnyxgQ/precoma.png" width="96"/> </td>
+      <td> <img src="https://i.ibb.co/L5nJsZL/pedro.png" width="96"/> </td>
     </tr> 
     <tr>
-      <td> Front End Dev </td>
-      <td> Ops </td>
-      <td> Ops </td>
-      <td> Dev/Ops </td>
-      <td> Mobile App Dev </td>
-      <td> Back End Dev </td>
+      <td> <div> Frontend </div> <div> Dev </div> </td>
+      <td> <div> Social Media </div> <div> Ops </div> </td>
+      <td> <div> Marketing </div> <div> Ops </div> </td>
+      <td> <div> App Dev </div> <div> Ops </div> </td>
+      <td> <div> Mobile App </div> <div> Dev </div> </td>
+      <td> <div> Backend </div> <div> Dev </div> </td>
     </tr>
   </tbody>
 </table>
@@ -57,5 +57,10 @@ Meet our development team who make the magic happen:
 ## 💎 Contact
 
 If you want to enter in contact with us or know more about the applications, do not hesit to send us an email. We are available to talk and help the some way!
+
+- [Send an Email](contact@paseme.app)
+- [TikTok](https://tiktok.com/@paseme)
+- [Instagram](https://instagram.com/pasemeapp)
+- [YouTube](https://youtube.com/@pasemeapp)
 
 💙 Thank you for visit the profile! 💚
