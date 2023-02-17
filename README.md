@@ -14,10 +14,11 @@ We are a development team passionate about technology, always looking to learn a
 
 Below are some more interesting and recent projects:
 
-- [Server](https://github.com/paseme/paseme-server)
-- [App Mobile](https://github.com/paseme/paseme-app)
-- [App Web](https://github.com/paseme/paseme-web)
-- [Page](https://github.com/paseme/paseme-page)
+- [Paseme Server API](https://github.com/paseme/paseme-server-api)
+- [Paseme Mobile App](https://github.com/paseme/paseme-mobile-app)
+- [Paseme Client Web](https://github.com/paseme/paseme-client-web)
+- [Paseme Establishment Web](https://github.com/paseme/paseme-establishment-web)
+- [Paseme Page Web](https://github.com/paseme/paseme-page-web)
 
 ## 🐛 Team
 
@@ -58,7 +59,7 @@ Meet our development team who make the magic happen:
 
 If you want to enter in contact with us or know more about the applications, do not hesit to send us an email. We are available to talk and help the some way!
 
-- [Send an Email](contact@paseme.app)
+- [Send an Email](mailto:contact@paseme.app)
 - [TikTok](https://tiktok.com/@paseme)
 - [Instagram](https://instagram.com/pasemeapp)
 - [YouTube](https://youtube.com/@pasemeapp)
